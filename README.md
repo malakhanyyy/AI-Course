@@ -1,89 +1,41 @@
-# 🤖 AI Engineer in Progress
+# AI Course
 
 ## Session 1: Introduction to AI
 
-### What is AI?
-Artificial Intelligence (AI) is the field of creating machines that can perform tasks requiring human intelligence.
+### AI, Machine Learning & Deep Learning
+
+<p align="center">
+  <img src="images/ai.png" width="500">
+</p>
 
 ---
 
+## What is AI?
+Artificial Intelligence (AI) is...
+
 ## AI Types
-AI has three versions:
 - Narrow AI
 - General AI
 - Super AI
 
----
-
-## AI, Machine Learning & Deep Learning
-
-> Deep Learning ⊂ Machine Learning ⊂ Artificial Intelligence
-
-![AI vs ML vs DL](images/ai-ml-dl.png)
-
----
-
-## Error Formula
-
-```math
-Error = \sum (y_i - \hat{y_i})^2
-```
-
----
-
-## Linear Regression
-
-Formula:
-
-```math
-y = mx + b
-```
-
----
-
 ## Machine Learning
-
-Machine Learning (ML) allows computers to learn from data without being explicitly programmed.
-
-### Types
-1. **Supervised Learning**
-   - Output is known.
-2. **Unsupervised Learning**
-   - No labeled output.
-
-### Example
-- YouTube Recommendations
-
----
+- Learns from data
+- Example: YouTube recommendations
 
 ## Naive Bayes
-
-A probability-based classification algorithm.
-
-**Example:** Gmail detects spam by checking how often certain words appear in spam emails.
-
----
+- Uses probability for classification.
+- Example: Gmail spam detection.
 
 ## Data Types
-
 ### Structured Data
-- Excel sheets
-- Databases
+- Excel
 - Tables
 
 ### Unstructured Data
 - Images
 - Audio
-- Videos
 - Text
 
----
-
 ## Deep Learning
-
-Deep Learning uses **Neural Networks** to solve complex Machine Learning problems, especially with unstructured data.
-
-Examples:
-- Image Recognition
-- Face Detection
-- Speech Recognition
+- Uses Neural Networks.
+- Solves complex ML problems.
