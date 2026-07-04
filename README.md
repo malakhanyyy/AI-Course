@@ -4,7 +4,10 @@
 
 ### AI, Machine Learning & Deep Learning
 
-![AI, Machine Learning & Deep Learning](https://upload.wikimedia.org/wikipedia/commons/0/05/ML_vs_DL.svg)
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/ML_vs_DL.svg" alt="AI, Machine Learning, and Deep Learning" width="500">
+</p>
+
 ---
 
 ## What is AI?
