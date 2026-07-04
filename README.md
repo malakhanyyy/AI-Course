@@ -4,9 +4,7 @@
 
 ### AI, Machine Learning & Deep Learning
 
-<p align="center">
-  <img src="images/ai.png" width="500">
-</p>
+![AI Diagram](images/ai.png)
 
 ---
 
