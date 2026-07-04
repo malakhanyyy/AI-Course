@@ -4,9 +4,7 @@
 
 ### AI, Machine Learning & Deep Learning
 
-<p align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:1400/1*UHfYtM3P8Q1b7P8W0Q4P4g.png" alt="AI vs ML vs DL" width="500">
-</p>
+![AI vs ML vs DL](https://www.researchgate.net/profile/Mohamed-Abdel-Basset/publication/340445228/figure/fig1/AS:876842090422272@1586066752558/Artificial-intelligence-vs-machine-learning-vs-deep-learning.ppm)
 
 ---
 
