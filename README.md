@@ -5,7 +5,7 @@
 ### AI, Machine Learning & Deep Learning
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/ML_vs_DL.svg" alt="AI, Machine Learning, and Deep Learning" width="500">
+  <img src="https://miro.medium.com/v2/resize:fit:1400/1*UHfYtM3P8Q1b7P8W0Q4P4g.png" alt="AI vs ML vs DL" width="500">
 </p>
 
 ---
