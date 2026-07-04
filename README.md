@@ -1,21 +1,89 @@
-# AI-Course
-AI Engineer in progress ⏳
+# 🤖 AI Engineer in Progress
 
+## Session 1: Introduction to AI
 
-**##1. Intro to AI (session 1)**
-**AI has 3 versions:** Narrow, General, Super
-**Turing Test:** It was made to test the ability of machines vs humans
+### What is AI?
+Artificial Intelligence (AI) is the field of creating machines that can perform tasks requiring human intelligence.
 
-<img width="420" height="420" alt="Comprendre-le-Machine-Learning-et-le-Deep-Learning_BIAL-X" src="https://github.com/user-attachments/assets/82071da0-f47c-400c-ba3f-72ffd41e8ae5" />
-**What is AI?**
-**Why we use matrix in AI?**
-**linear regression:** y = mx + b , Error= $$y_i - \hat{y}$$
-**AI in the past:** >> Conditions.
-**Machine Learning:** 1. Supervised: the output is known 2. Unsupervised: Gathering data ex: Youtube Suggestions.
-Modern AI (ML) relies on training data & learning from patterns.
-**Naive Bayes** : A classification algorithm that uses probability to make predictions **ex:** Gmail detects spam by checking how often certain words appear in spam emails.
-**Deep Learning** >> Neural Networks.
-**ML**: 1.Structured data: Excel sheets & tables  2.Unstructured data: Images, Pixels (file.json).
-Deep learning came to solve the problems of ML >> Unstructured data & Complexity.
+---
 
+## AI Types
+AI has three versions:
+- Narrow AI
+- General AI
+- Super AI
 
+---
+
+## AI, Machine Learning & Deep Learning
+
+> Deep Learning ⊂ Machine Learning ⊂ Artificial Intelligence
+
+![AI vs ML vs DL](images/ai-ml-dl.png)
+
+---
+
+## Error Formula
+
+```math
+Error = \sum (y_i - \hat{y_i})^2
+```
+
+---
+
+## Linear Regression
+
+Formula:
+
+```math
+y = mx + b
+```
+
+---
+
+## Machine Learning
+
+Machine Learning (ML) allows computers to learn from data without being explicitly programmed.
+
+### Types
+1. **Supervised Learning**
+   - Output is known.
+2. **Unsupervised Learning**
+   - No labeled output.
+
+### Example
+- YouTube Recommendations
+
+---
+
+## Naive Bayes
+
+A probability-based classification algorithm.
+
+**Example:** Gmail detects spam by checking how often certain words appear in spam emails.
+
+---
+
+## Data Types
+
+### Structured Data
+- Excel sheets
+- Databases
+- Tables
+
+### Unstructured Data
+- Images
+- Audio
+- Videos
+- Text
+
+---
+
+## Deep Learning
+
+Deep Learning uses **Neural Networks** to solve complex Machine Learning problems, especially with unstructured data.
+
+Examples:
+- Image Recognition
+- Face Detection
+- Speech Recognition
