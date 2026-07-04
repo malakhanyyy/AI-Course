@@ -4,9 +4,9 @@
 
 ### AI, Machine Learning & Deep Learning
 
-<p align="center">
-  <img src="[https://miro.medium.com/v2/resize:fit:1400/1*UHfYtM3P8Q1b7P8W0Q4P4g.png](https://www.researchgate.net/publication/340684782/figure/fig3/AS:881204668678144@1587106973137/Figure-Artificial-Intelligence-Machine-Learning-and-Deep-Learning.ppm)" alt="AI vs ML vs DL" width="500">
-</p>
+
+<img width="420" height="420" alt="Comprendre-le-Machine-Learning-et-le-Deep-Learning_BIAL-X" src="https://github.com/user-attachments/assets/406bc3b7-84d8-415e-9874-f4a7511b4f5e" />
+
 
 ---
 
