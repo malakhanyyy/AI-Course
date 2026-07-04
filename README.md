@@ -4,8 +4,9 @@
 
 ### AI, Machine Learning & Deep Learning
 
-![AI Diagram](images/ai-ml-dl.png)
-
+<p align="center">
+  <img src="images/ai.png" alt="AI, Machine Learning & Deep Learning" width="500">
+</p>
 ---
 
 ## What is AI?
