@@ -4,8 +4,14 @@
 
 ### AI, Machine Learning & Deep Learning
 
-
-<img width="420" height="420" alt="Comprendre-le-Machine-Learning-et-le-Deep-Learning_BIAL-X" src="https://github.com/user-attachments/assets/406bc3b7-84d8-415e-9874-f4a7511b4f5e" />
+<p align="center">
+  <img
+    width="420"
+    height="420"
+    alt="AI vs Machine Learning vs Deep Learning"
+    src="https://github.com/user-attachments/assets/406bc3b7-84d8-415e-9874-f4a7511b4f5e"
+  />
+</p>
 
 
 ---
