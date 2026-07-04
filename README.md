@@ -4,7 +4,7 @@
 
 ### AI, Machine Learning & Deep Learning
 
-![AI Diagram](images/ai.png)
+![AI Diagram](images/ai-ml-dl.png)
 
 ---
 
