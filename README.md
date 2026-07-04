@@ -12,7 +12,7 @@
 ---
 
 ## What is AI?
-Artificial Intelligence (AI) is...
+Artificial Intelligence (AI) enables computers and machines to simulate human learning.
 
 ## AI Types
 - Narrow AI
